@@ -1,0 +1,17 @@
+C:\Users\pc1\source\repos\WebApplication1\PcService.BL\obj\Debug\net5.0\PcService.BL.csproj.AssemblyReference.cache
+C:\Users\pc1\source\repos\WebApplication1\PcService.BL\obj\Debug\net5.0\PcService.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc1\source\repos\WebApplication1\PcService.BL\obj\Debug\net5.0\PcService.BL.AssemblyInfoInputs.cache
+C:\Users\pc1\source\repos\WebApplication1\PcService.BL\obj\Debug\net5.0\PcService.BL.AssemblyInfo.cs
+C:\Users\pc1\source\repos\WebApplication1\PcService.BL\obj\Debug\net5.0\PcService.BL.csproj.CoreCompileInputs.cache
+C:\Users\pc1\source\repos\WebApplication1\PcService.BL\bin\Debug\net5.0\PcService.BL.deps.json
+C:\Users\pc1\source\repos\WebApplication1\PcService.BL\bin\Debug\net5.0\PcService.BL.dll
+C:\Users\pc1\source\repos\WebApplication1\PcService.BL\bin\Debug\net5.0\ref\PcService.BL.dll
+C:\Users\pc1\source\repos\WebApplication1\PcService.BL\bin\Debug\net5.0\PcService.BL.pdb
+C:\Users\pc1\source\repos\WebApplication1\PcService.BL\bin\Debug\net5.0\PcService.DL.dll
+C:\Users\pc1\source\repos\WebApplication1\PcService.BL\bin\Debug\net5.0\PcService.Models.dll
+C:\Users\pc1\source\repos\WebApplication1\PcService.BL\bin\Debug\net5.0\PcService.DL.pdb
+C:\Users\pc1\source\repos\WebApplication1\PcService.BL\bin\Debug\net5.0\PcService.Models.pdb
+C:\Users\pc1\source\repos\WebApplication1\PcService.BL\obj\Debug\net5.0\PcService.BL.csproj.CopyComplete
+C:\Users\pc1\source\repos\WebApplication1\PcService.BL\obj\Debug\net5.0\PcService.BL.dll
+C:\Users\pc1\source\repos\WebApplication1\PcService.BL\obj\Debug\net5.0\ref\PcService.BL.dll
+C:\Users\pc1\source\repos\WebApplication1\PcService.BL\obj\Debug\net5.0\PcService.BL.pdb

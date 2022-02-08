@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bHSEAPPASmHitEsfIyOGIk/uE8Fx6sqykRGTZs820rvjfwW9JWZBBTZlqNSCHNtazMhfEeLwQI6SbUnXQEUpug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pc1\\source\\repos\\WebApplication1\\PcService.BL\\PcService.BL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc1\\.nuget\\packages\\serilog\\2.10.0\\serilog.2.10.0.nupkg.sha512"
+  ],
+  "logs": []
+}

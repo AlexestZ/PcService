@@ -1,0 +1,67 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PcService.BL/1.0.0": {
+        "dependencies": {
+          "PcService.DL": "1.0.0",
+          "PcService.Models": "1.0.0",
+          "Serilog": "2.10.0"
+        },
+        "runtime": {
+          "PcService.BL.dll": {}
+        }
+      },
+      "Serilog/2.10.0": {
+        "runtime": {
+          "lib/netstandard2.1/Serilog.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.10.0.0"
+          }
+        }
+      },
+      "PcService.DL/1.0.0": {
+        "dependencies": {
+          "PcService.Models": "1.0.0",
+          "Serilog": "2.10.0"
+        },
+        "runtime": {
+          "PcService.DL.dll": {}
+        }
+      },
+      "PcService.Models/1.0.0": {
+        "runtime": {
+          "PcService.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PcService.BL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Serilog/2.10.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+QX0hmf37a0/OZLxM3wL7V6/ADvC1XihXN4Kq/p6d8lCPfgkRdiuhbWlMaFjR9Av0dy5F0+MBeDmDdRZN/YwQA==",
+      "path": "serilog/2.10.0",
+      "hashPath": "serilog.2.10.0.nupkg.sha512"
+    },
+    "PcService.DL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PcService.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
